@@ -1,6 +1,6 @@
 # Medical Imaging and Knowledge Representation
 
-This repository contains practical works completed during the IMA204 course "Imagerie médicale et biologique / Représentation des connaissances" (Medical and Biological Imaging / Knowledge Representation) at Télécom Paris.
+This repository contains practical works completed during the "IMA204: Imagerie médicale et biologique / Représentation des connaissances" (Medical and Biological Imaging / Knowledge Representation) course at Télécom Paris.
 
 ## Table of Contents
 1. [Course Overview](#course-overview)
